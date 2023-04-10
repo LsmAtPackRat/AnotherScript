@@ -1,2 +1,2 @@
 # AnotherScript
-AnotherScript is just another script. A managed language VM, very simple.
+AnotherScript is just another script, a managed language VM, very simple.
